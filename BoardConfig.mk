@@ -41,7 +41,7 @@ TARGET_KERNEL_CONFIG        := cyanogenmod_celoxskt_defconfig
 TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
 
 # Assert minimum baseband version
-TARGET_BOARD_INFO_FILE ?= device/samsung/celoxskt/board-info.txt
+# TARGET_BOARD_INFO_FILE ?= device/samsung/celoxskt/board-info.txt
 
 # cat /proc/emmc
 #dev:        size     erasesize name
