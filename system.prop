@@ -1,5 +1,5 @@
 #
-# system.prop for SGH-T989
+# system.prop for SHV-E110S
 #
 
 rild.libpath=/system/lib/libril-qc-qmi-1.so
